@@ -1,0 +1,7 @@
+{
+  "$schema": "https://aka.ms/PowerBIWorkspaceTemplateSchema",
+  "name": "Azure Security Threat Monitoring",
+  "type": "workbook",
+  "version": "1.0",
+  "items": []
+}
